@@ -1,13 +1,13 @@
 claim_type,Company,date_received,claim_amount
-Abbvie,Allergan,1/1/2020,"70,696.68"
-Abbvie,Pharmacyclics,1/1/2015,"25,704.50"
-Abbvie,Stemcentrix,1/1/2016,"7,748.33"
-Amgen,Immunex,1/1/2001,"26,467.10"
-Amgen,Abgenix,1/1/2005,"3,267.54"
-Amgen,Tularik,1/1/2004,"1,996.77"
-Amgen,Five Prime Therapeutics,1/1/2021,"1,991.96"
-Amgen,Micromet,1/1/2012,"1,476.75"
-Amgen,BioVex,1/1/2011,"1,295.22"
+Abbvie,Allergan,1/1/2020,70,696.68
+Abbvie,Pharmacyclics,1/1/2015,25,704.50
+Abbvie,Stemcentrix,1/1/2016,7,748.33
+Amgen,Immunex,1/1/2001,26,467.10
+Amgen,Abgenix,1/1/2005,3,267.54
+Amgen,Tularik,1/1/2004,1,996.77
+Amgen,Five Prime Therapeutics,1/1/2021,1,991.96
+Amgen,Micromet,1/1/2012,1,476.75
+Amgen,BioVex,1/1/2011,1,295.22
 Amgen,TeneoBio,1/1/2021,943.56
 Amgen,Kirin-Amgen,1/1/2018,907.49
 Amgen,Mustafa Nevzat Ilac,1/1/2012,891.14
@@ -19,13 +19,13 @@ Amgen,KAI Pharmaceuticals,1/1/2012,401.01
 Amgen,Dezima Pharmaceuticals,1/1/2015,370.74
 Amgen,Nuevoution,1/1/2019,191.09
 Amgen,Rodeo Therapeutics,1/1/2021,57.66
-AstraZeneca,Alexion Pharmaceuticals,1/1/2021,"40,887.60"
-AstraZeneca,"MedImmune, Inc.",1/1/2007,"21,709.70"
-AstraZeneca,BMS' Diabetes Alliance,1/1/2014,"5,103.72"
-AstraZeneca,ZS Pharma,1/1/2015,"3,336.64"
-AstraZeneca,Almirall's Respitory Business,1/1/2014,"2,611.61"
-AstraZeneca,Ardea,1/1/2012,"1,614.24"
-AstraZeneca,Cambridge Antibody Technology Group PLC,1/1/2006,"1,516.52"
+AstraZeneca,Alexion Pharmaceuticals,1/1/2021,40,887.60
+AstraZeneca,MedImmune, Inc.,1/1/2007,21,709.70
+AstraZeneca,BMS' Diabetes Alliance,1/1/2014,5,103.72
+AstraZeneca,ZS Pharma,1/1/2015,3,336.64
+AstraZeneca,Almirall's Respitory Business,1/1/2014,2,611.61
+AstraZeneca,Ardea,1/1/2012,1,614.24
+AstraZeneca,Cambridge Antibody Technology Group PLC,1/1/2006,1,516.52
 AstraZeneca,Pearl Therapeutics,1/1/2013,713.65
 AstraZeneca,Novexal SA,1/1/2010,636.12
 AstraZeneca,Amplimmune,1/1/2013,627.11
@@ -34,13 +34,13 @@ AstraZeneca,Definiens,1/1/2014,373.44
 AstraZeneca,KuDOS Pharmaceuticals Limited ,1/1/2006,298.38
 AstraZeneca,Arrow Therapeutics Limited,1/1/2007,204.57
 AstraZeneca,Atlantis Components Inc.,1/1/2007,98.81
-Bayer,Allergan,1/1/2021,"66,049.20"
-Bayer,Monsanto,1/1/2018,"56,078.09"
-Bayer,Asklepios BioPharmaceutical,1/1/2020,"3,546.06"
+Bayer,Allergan,1/1/2021,66,049.20
+Bayer,Monsanto,1/1/2018,56,078.09
+Bayer,Asklepios BioPharmaceutical,1/1/2020,3,546.06
 Bayer,KaNDy Therapeutics Ltd.,1/1/2020,798.98
 Bayer,BlueRock Therapeutics L.P.,1/1/2019,598.30
 Bayer,Century Therapeutics,1/1/2019,217.25
-Bayer,"Cydectin portfolio from Boehringer Ingelheim Vetmedica, Inc.",1/1/2017,187.34
+Bayer,Cydectin portfolio from Boehringer Ingelheim Vetmedica, Inc.,1/1/2017,187.34
 Bayer,Casebia Therapeutics LLP,1/1/2016,127.12
 Bayer,NoHo Health,1/1/2020,123.44
 Bayer,Seedworks India Pvt. Ltd.,1/1/2015,96.39
@@ -50,11 +50,11 @@ Bayer,Bayer Zydus Pharma Private Limited,1/1/2018,32.58
 Bayer,Thermoplast Composite GmbH,1/1/2015,22.24
 BioNTech,Neon,1/1/2020,75.19
 BioNTech,MabVax Therapeutics' Antibody Assets,1/1/2019,4.21
-BMS,Celgene,1/1/2019,"40,607.09"
-BMS,DuPont Pharmaceuticals,1/1/2001,"12,902.71"
-BMS,Amylin,1/1/2012,"6,747.22"
-BMS,Medarex,1/1/2009,"3,113.15"
-BMS,ZymoGenetics,1/1/2010,"1,105.55"
+BMS,Celgene,1/1/2019,40,607.09
+BMS,DuPont Pharmaceuticals,1/1/2001,12,902.71
+BMS,Amylin,1/1/2012,6,747.22
+BMS,Medarex,1/1/2009,3,113.15
+BMS,ZymoGenetics,1/1/2010,1,105.55
 BMS,Flexus,1/1/2015,988.63
 BMS,Genetic Systems and Oncogen,1/1/1985,802.28
 BMS,Adnexus Therapeutics,1/1/2007,601.19
@@ -67,21 +67,21 @@ BMS,Cardioxyl ,1/1/2015,247.16
 BMS,Acordis Specialty Fibres,1/1/2004,230.40
 BMS,iPlerian Inc.,1/1/2014,217.84
 BMS,Pharmavit Gyogyszer-es Elelmiszeripari Reszvenytarsasag,1/1/1995,209.46
-CSL,Vifor Pharma,1/1/2021,"12,895.32"
+CSL,Vifor Pharma,1/1/2021,12,895.32
 CSL,Yuan Ruide Biological Products Co. Ltd.,1/1/2017,417.36
 CSL,Novartis's influenza business,1/1/2015,339.84
 CSL,Vitaeris Inc.,1/1/2020,203.11
 CSL,Ruide,1/1/2018,177.54
 CSL,Calimmune,1/1/2017,168.01
 CSL,Guangzhou Junxin Pharmaceutical Limited,1/1/2018,0.70
-Eli Lilly,Loxo Oncology,1/1/2019,"9,099.63"
-Eli Lilly,ImClone Systems,1/1/2008,"9,037.45"
-Eli Lilly,PCS System,1/1/1994,"7,810.18"
-Eli Lilly,Novartis Animal Health,1/1/2014,"6,721.97"
-Eli Lilly,Icos Corporation,1/1/2007,"3,200.79"
-Eli Lilly,Armo Biosciences,1/1/2018,"1,861.51"
-Eli Lilly,CoLucid Pharmaceuticals,1/1/2017,"1,138.24"
-Eli Lilly,Protomer,1/1/2021,"1,048.40"
+Eli Lilly,Loxo Oncology,1/1/2019,9,099.63
+Eli Lilly,ImClone Systems,1/1/2008,9,037.45
+Eli Lilly,PCS System,1/1/1994,7,810.18
+Eli Lilly,Novartis Animal Health,1/1/2014,6,721.97
+Eli Lilly,Icos Corporation,1/1/2007,3,200.79
+Eli Lilly,Armo Biosciences,1/1/2018,1,861.51
+Eli Lilly,CoLucid Pharmaceuticals,1/1/2017,1,138.24
+Eli Lilly,Protomer,1/1/2021,1,048.40
 Eli Lilly,Prevail Therapeutics Inc,1/1/2020,987.51
 Eli Lilly,Hybritech,1/1/1985,802.28
 Eli Lilly,Cardiac Pacemakers,1/1/1978,548.32
@@ -92,63 +92,63 @@ Eli Lilly,IVAC Corporation,1/1/1977,249.46
 Eli Lilly,Disarm Therapeutics,1/1/2020,151.49
 Eli Lilly,AurKa Pharma,1/1/2018,127.98
 Eli Lilly,Devices for Vascular Intervention,1/1/1988,121.28
-Eli Lilly,"SGX Pharmaceuticals, Inc",1/1/2008,88.98
-Gilead Sciences,Immunomedics,1/1/2020,"23,565.56"
-Gilead Sciences,Pharmasset Inc.,1/1/2011,"14,247.47"
-Gilead Sciences,Kite Pharma,1/1/2017,"14,109.47"
-Gilead Sciences,Forty Seven,1/1/2020,"5,498.63"
-Gilead Sciences,Galapagos NV,1/1/2019,"4,492.94"
-Gilead Sciences,"Myogen, Inc.",1/1/2006,"3,621.11"
-Gilead Sciences,"CV Therapeutics, Inc.",1/1/2009,"1,894.96"
-Gilead Sciences,MYR GmbH,1/1/2020,"1,627.15"
+Eli Lilly,SGX Pharmaceuticals, Inc,1/1/2008,88.98
+Gilead Sciences,Immunomedics,1/1/2020,23,565.56
+Gilead Sciences,Pharmasset Inc.,1/1/2011,14,247.47
+Gilead Sciences,Kite Pharma,1/1/2017,14,109.47
+Gilead Sciences,Forty Seven,1/1/2020,5,498.63
+Gilead Sciences,Galapagos NV,1/1/2019,4,492.94
+Gilead Sciences,Myogen, Inc.,1/1/2006,3,621.11
+Gilead Sciences,CV Therapeutics, Inc.,1/1/2009,1,894.96
+Gilead Sciences,MYR GmbH,1/1/2020,1,627.15
 Gilead Sciences,NeXstar Pharmaceuticals,1/1/1999,955.22
 Gilead Sciences,Calistoga Pharmaceuticals,1/1/2011,777.13
 Gilead Sciences,Triangle Pharmaceuticals,1/1/2002,749.73
 Gilead Sciences,Phenex Pharmaceuticals,1/1/2015,580.82
-Gilead Sciences,"Corus Pharma, Inc.",1/1/2006,528.68
-Gilead Sciences,"Nimbus Apollo, Inc.",1/1/2016,484.27
+Gilead Sciences,Corus Pharma, Inc.,1/1/2006,528.68
+Gilead Sciences,Nimbus Apollo, Inc.,1/1/2016,484.27
 Gilead Sciences,Raylo Chemicals,1/1/2006,214.37
 Gilead Sciences,CGI Pharmaceuticals,1/1/2010,160.03
 Gilead Sciences,EpiTherapeutics,1/1/2015,80.33
-GSK,Tesaro,1/1/2018,"5,933.57"
-GSK,Stiefel Laboratories,1/1/2009,"4,872.75"
-GSK,Human Genome Sciences,1/1/2012,"3,819.18"
-GSK,Affinivax,1/1/2022,"3,300.00"
-GSK,Block Drug,1/1/2001,"1,985.03"
-GSK,Sierra Oncology,1/1/2022,"1,900.00"
+GSK,Tesaro,1/1/2018,5,933.57
+GSK,Stiefel Laboratories,1/1/2009,4,872.75
+GSK,Human Genome Sciences,1/1/2012,3,819.18
+GSK,Affinivax,1/1/2022,3,300.00
+GSK,Block Drug,1/1/2001,1,985.03
+GSK,Sierra Oncology,1/1/2022,1,900.00
 GSK,CNS Inc.,1/1/2006,819.82
 GSK,Laboratorios Phoenix,1/1/2010,337.40
 GSK,GlycoVaxyn,1/1/2015,234.80
-Johnson and Johnson,Actelion,1/1/2017,"35,688.65"
-Johnson and Johnson,Synthes Inc,1/1/2011,"26,034.02"
-Johnson and Johnson,Pfizer Consumer Healthcare ,1/1/2006,"24,044.17"
-Johnson and Johnson,ALZA Corp.,1/1/2001,"18,311.92"
-Johnson and Johnson,Centocor,1/1/1999,"8,770.62"
-Johnson and Johnson,Momenta,1/1/2020,"7,294.10"
-Johnson and Johnson,Depuy Inc,1/1/1998,"6,224.00"
-Johnson and Johnson,Abbott Medical Optics,1/1/2016,"5,242.23"
-Johnson and Johnson,Auris Health,1/1/2020,"3,815.38"
-Johnson and Johnson,Scios Inc,1/1/2003,"3,679.47"
-Johnson and Johnson,Vogue International Inc,1/1/2016,"3,668.35"
-Johnson and Johnson,Crucell NV,1/1/2010,"2,893.90"
-Johnson and Johnson,"Synthes, Guangzhou Bioseal Biotech",1/1/2014,"2,651.44"
-Johnson and Johnson,Alios Biopharma,1/1/2014,"2,178.42"
-Johnson and Johnson,Cougar Biotech,1/1/2009,"1,353.54"
-Johnson and Johnson,Aragon Pharmaceuticals,1/1/2013,"1,254.23"
-Johnson and Johnson,Acclarent Inc,1/1/2010,"1,046.87"
+Johnson and Johnson,Actelion,1/1/2017,35,688.65
+Johnson and Johnson,Synthes Inc,1/1/2011,26,034.02
+Johnson and Johnson,Pfizer Consumer Healthcare ,1/1/2006,24,044.17
+Johnson and Johnson,ALZA Corp.,1/1/2001,18,311.92
+Johnson and Johnson,Centocor,1/1/1999,8,770.62
+Johnson and Johnson,Momenta,1/1/2020,7,294.10
+Johnson and Johnson,Depuy Inc,1/1/1998,6,224.00
+Johnson and Johnson,Abbott Medical Optics,1/1/2016,5,242.23
+Johnson and Johnson,Auris Health,1/1/2020,3,815.38
+Johnson and Johnson,Scios Inc,1/1/2003,3,679.47
+Johnson and Johnson,Vogue International Inc,1/1/2016,3,668.35
+Johnson and Johnson,Crucell NV,1/1/2010,2,893.90
+Johnson and Johnson,Synthes, Guangzhou Bioseal Biotech,1/1/2014,2,651.44
+Johnson and Johnson,Alios Biopharma,1/1/2014,2,178.42
+Johnson and Johnson,Cougar Biotech,1/1/2009,1,353.54
+Johnson and Johnson,Aragon Pharmaceuticals,1/1/2013,1,254.23
+Johnson and Johnson,Acclarent Inc,1/1/2010,1,046.87
 Johnson and Johnson,CooperVision,1/1/1987,658.55
 Johnson and Johnson,Omrix Biopharmaceuticals Inc,1/1/2008,608.98
 Johnson and Johnson,Verb Surgical,1/1/2020,448.87
 Johnson and Johnson,Angiotech Pharmaceuticals,1/1/2014,77.18
-Merck Co.,Cubist,1/1/2015,"10,257.08"
-Merck Co.,KBI Inc,1/1/1998,"5,528.48"
-Merck Co.,Indenix Pharmaceuticals Inc.,1/1/2014,"4,854.75"
-Merck Co.,Antelliq Corporation,1/1/2020,"4,062.25"
-Merck Co.,ArQule,1/1/2020,"3,029.86"
-Merck Co.,Sirna Therapeutics,1/1/2006,"1,593.29"
-Merck Co.,Peloton Therapeutics,1/1/2020,"1,167.06"
-Merck Co.,Rosetta Inpharmatics,1/1/2001,"1,048.26"
-Merck Co.,US over-the-counter business of ICI Americas Inc.,1/1/1986,"1,044.86"
+Merck Co.,Cubist,1/1/2015,10,257.08
+Merck Co.,KBI Inc,1/1/1998,5,528.48
+Merck Co.,Indenix Pharmaceuticals Inc.,1/1/2014,4,854.75
+Merck Co.,Antelliq Corporation,1/1/2020,4,062.25
+Merck Co.,ArQule,1/1/2020,3,029.86
+Merck Co.,Sirna Therapeutics,1/1/2006,1,593.29
+Merck Co.,Peloton Therapeutics,1/1/2020,1,167.06
+Merck Co.,Rosetta Inpharmatics,1/1/2001,1,048.26
+Merck Co.,US over-the-counter business of ICI Americas Inc.,1/1/1986,1,044.86
 Merck Co.,Banyu Pharmaceutical Co,1/1/1983,903.15
 Merck Co.,Afferent Pharmaceuticals,1/1/2016,617.44
 Merck Co.,Inspire Pharmaceuticals,1/1/2011,543.99
@@ -174,29 +174,29 @@ Merck Co.,Health Management Resources Corporation,1/1/2013,109.12
 Merck Co.,Rotary Drilling Services Inc. of Tulsa,1/1/1981,62.19
 Merck Co.,Havens INternational,1/1/1970,29.38
 Merck Co.,War Assets Administration,1/1/1947,21.86
-Merck KGaA,Sigma Aldrich,1/1/2014,"21,161.75"
-Merck KGaA,Ares Serono,1/1/2006,"19,264.31"
-Merck KGaA,Acceleron,1/1/2022,"11,500.00"
-Merck KGaA,EMD Millipore,1/1/2010,"9,601.88"
-Merck KGaA,Versum Material,1/1/2019,"7,109.08"
-Merck KGaA,AZ Electronic Materials,1/1/2013,"3,260.99"
+Merck KGaA,Sigma Aldrich,1/1/2014,21,161.75
+Merck KGaA,Ares Serono,1/1/2006,19,264.31
+Merck KGaA,Acceleron,1/1/2022,11,500.00
+Merck KGaA,EMD Millipore,1/1/2010,9,601.88
+Merck KGaA,Versum Material,1/1/2019,7,109.08
+Merck KGaA,AZ Electronic Materials,1/1/2013,3,260.99
 Merck KGaA,Seven Seas,1/1/1996,416.51
 Merck KGaA,Mohan,1/1/2002,176.12
 Merck KGaA,Intermolecular,1/1/2019,70.52
 Merck KGaA,CellASIC,1/1/2012,35.52
 Merck KGaA,Ormet Circuits,1/1/2015,12.26
-Novartis,Alcon,1/1/2010,"69,346.94"
-Novartis,Merger between Sandoz + Ciba-Geigy,1/1/1996,"53,446.31"
-Novartis,The Medicines Company,1/1/2020,"10,660.61"
-Novartis,Hexal + Eon Labs,1/1/2005,"8,391.63"
-Novartis,Chiron Corp,1/1/2006,"7,574.74"
-Novartis,Advanced Accelerator Applications,1/1/2017,"4,624.11"
-Novartis,Dicerna Pharmaceuticals,1/1/2021,"3,459.72"
-Novartis,Endocyte,1/1/2018,"2,443.24"
-Novartis,Fougera Pharmaceuticals,1/1/2012,"1,941.42"
-Novartis,EBEWE Pharma’s specialty generics business ,1/1/2009,"1,624.25"
-Novartis,Lek,1/1/2002,"1,302.32"
-Novartis,Speedel,1/1/2009,"1,191.12"
+Novartis,Alcon,1/1/2010,69,346.94
+Novartis,Merger between Sandoz + Ciba-Geigy,1/1/1996,53,446.31
+Novartis,The Medicines Company,1/1/2020,10,660.61
+Novartis,Hexal + Eon Labs,1/1/2005,8,391.63
+Novartis,Chiron Corp,1/1/2006,7,574.74
+Novartis,Advanced Accelerator Applications,1/1/2017,4,624.11
+Novartis,Dicerna Pharmaceuticals,1/1/2021,3,459.72
+Novartis,Endocyte,1/1/2018,2,443.24
+Novartis,Fougera Pharmaceuticals,1/1/2012,1,941.42
+Novartis,EBEWE Pharma’s specialty generics business ,1/1/2009,1,624.25
+Novartis,Lek,1/1/2002,1,302.32
+Novartis,Speedel,1/1/2009,1,191.12
 Novartis,OTC business of BMS,1/1/2005,980.26
 Novartis,Spinifex Pharmaceuticals,1/1/2015,865.06
 Novartis,Selexys Pharmaceuticals,1/1/2016,805.10
@@ -207,37 +207,37 @@ Novartis,Admune Therapeutics,1/1/2017,305.90
 Novartis,Nektar Therapeutics,1/1/2008,159.89
 Novartis,Protez Pharmaceuticals,1/1/2009,138.06
 Novartis,SyStemix Inc.,1/1/1997,137.72
-Novo Nordisk,Dicerna Pharmaceuticals,1/1/2021,"3,459.72"
-Novo Nordisk,Calibrium,1/1/2015,"2,100.85"
-Novo Nordisk,Emisphere Technologies,1/1/2020,"2,019.91"
+Novo Nordisk,Dicerna Pharmaceuticals,1/1/2021,3,459.72
+Novo Nordisk,Calibrium,1/1/2015,2,100.85
+Novo Nordisk,Emisphere Technologies,1/1/2020,2,019.91
 Novo Nordisk,Ziylo,1/1/2018,930.76
 Novo Nordisk,Xellia Pharmaceuticals,1/1/2013,877.96
 Novo Nordisk,Corvidia Therapeutics,1/1/2020,813.57
 Novo Nordisk,Ferrosan Group,1/1/1986,161.36
 Novo Nordisk,Neose Technologies,1/1/2008,59.79
 Novo Nordisk,ZymoGenetics,1/1/1988,55.79
-Pfizer,Warner-Lambert,1/1/2000,"151,691.54"
-Pfizer,Wyeth,1/1/2009,"92,040.84"
-Pfizer,Merger with Pharmacia,1/1/2003,"88,814.85"
-Pfizer,Array BioPharma,1/1/2019,"12,966.97"
-Pfizer,Biohaven Pharma,1/1/2022,"11,600.00"
-Pfizer,Medivation,1/1/2016,"11,403.36"
-Pfizer,Arena Pharmaceuticals,1/1/2022,"6,700.00"
-Pfizer,Anacor Pharmaceuticals,1/1/2016,"6,295.52"
-Pfizer,King Pharmaceuticals,1/1/2010,"4,800.94"
-Pfizer,Vicuron,1/1/2005,"2,821.96"
-Pfizer,Trillium Therapeutics,1/1/2021,"2,327.45"
-Pfizer,Sanofi-Aventis worldwide rights to Exubera,1/1/2006,"2,027.82"
-Pfizer,Esperion,1/1/2004,"1,996.77"
+Pfizer,Warner-Lambert,1/1/2000,151,691.54
+Pfizer,Wyeth,1/1/2009,92,040.84
+Pfizer,Merger with Pharmacia,1/1/2003,88,814.85
+Pfizer,Array BioPharma,1/1/2019,12,966.97
+Pfizer,Biohaven Pharma,1/1/2022,11,600.00
+Pfizer,Medivation,1/1/2016,11,403.36
+Pfizer,Arena Pharmaceuticals,1/1/2022,6,700.00
+Pfizer,Anacor Pharmaceuticals,1/1/2016,6,295.52
+Pfizer,King Pharmaceuticals,1/1/2010,4,800.94
+Pfizer,Vicuron,1/1/2005,2,821.96
+Pfizer,Trillium Therapeutics,1/1/2021,2,327.45
+Pfizer,Sanofi-Aventis worldwide rights to Exubera,1/1/2006,2,027.82
+Pfizer,Esperion,1/1/2004,1,996.77
 Pfizer,Hospira,1/1/2015,988.63
-Pfizer,"NextWave Pharmaceuticals, Inc",1/1/2012,865.68
+Pfizer,NextWave Pharmaceuticals, Inc,1/1/2012,865.68
 Pfizer,Howmedica Inc,1/1/1972,839.06
 Pfizer,Campto,1/1/2004,806.39
 Pfizer,Bamboo Therapeutics,1/1/2016,780.89
 Pfizer,Rinat Neuroscience,1/1/2006,724.22
 Pfizer,Shiley,1/1/1984,693.96
 Pfizer,ReViral Ltd,1/1/2022,525.00
-Pfizer,"Oral Research Laboratories, Inc.",1/1/1988,485.14
+Pfizer,Oral Research Laboratories, Inc.,1/1/1988,485.14
 Pfizer,Innopharma,1/1/2014,448.13
 Pfizer,Idun,1/1/2005,371.31
 Pfizer,Valleylab,1/1/1983,331.83
@@ -249,14 +249,13 @@ Pfizer,Angiomedics Incorporated,1/1/1986,148.13
 Pfizer,Cavitron,1/1/1988,101.88
 Pfizer,Charwell Pharmaceuticals,1/1/1993,83.20
 Pfizer,Icagen ,1/1/2011,72.53
-Pfizer,"J. B. Roerig and Company,",1/1/1953,65.20
 Pfizer,FlavorTechnology Inc.,1/1/1994,62.48
 Pfizer,Space Age Materials Corporation (SAMCO) + Southern California Minerals Company,1/1/1966,60.41
 Pfizer,an additional 30% interest in a previously 50% owned Japanese company for $6.9M,1/1/1968,56.81
 Pfizer,Infusaid Company and Intermedics/Infusaid Inc ,1/1/1986,55.55
 Pfizer,Strato Medical Corporation,1/1/1990,54.61
 Pfizer,Restiva Italiana S.p.A,1/1/1994,50.77
-Pfizer,"Rovifarma, S.A.",1/1/1994,46.86
+Pfizer,Rovifarma, S.A.,1/1/1994,46.86
 Pfizer,Inland Scone Co.,1/1/1990,37.14
 Pfizer,Biomedical Sensors (Holdings) Ltd. (England),1/1/1988,36.39
 Pfizer,Cadsand Beheer B.V and Cadsand Medica B.VB.A,1/1/1990,34.95
@@ -264,20 +263,20 @@ Pfizer,Koshin Medical Corp.,1/1/1992,33.78
 Pfizer,Medinvent SA,1/1/1990,31.24
 Pfizer,Synbiotics Corporation ,1/1/2010,26.67
 Pfizer,Citro Chemical Company,1/1/1947,9.62
-Pfizer,"American Medical Systems, Inc.",1/1/1985,6.23
+Pfizer,American Medical Systems, Inc.,1/1/1985,6.23
 Pfizer,Nalco Chemical Company's refractories business in the US ,1/1/1988,4.85
 Regeneron,Checkmate Pharmaceuticals,1/1/2022,250.00
 Regeneron,Intellia Therapeutics minority stake,1/1/2016,60.53
-Roche,Boehringer Mannheim,1/1/1997,"19,933.39"
-Roche,Corange Limited,1/1/1998,"18,188.69"
-Roche,Syntex,1/1/1994,"10,348.49"
-Roche,InterMune,1/1/2014,"10,331.91"
-Roche,Spark Therapeutics,1/1/2019,"4,891.05"
-Roche,Foundation Medicine,1/1/2015,"2,965.90"
-Roche,Chugai,1/1/2001,"2,034.66"
-Roche,Ignyta,1/1/2017,"2,015.64"
-Roche,GenMark Diagnostic,1/1/2021,"1,887.12"
-Roche,Kytril,1/1/2000,"1,871.37"
+Roche,Boehringer Mannheim,1/1/1997,19,933.39
+Roche,Corange Limited,1/1/1998,18,188.69
+Roche,Syntex,1/1/1994,10,348.49
+Roche,InterMune,1/1/2014,10,331.91
+Roche,Spark Therapeutics,1/1/2019,4,891.05
+Roche,Foundation Medicine,1/1/2015,2,965.90
+Roche,Chugai,1/1/2001,2,034.66
+Roche,Ignyta,1/1/2017,2,015.64
+Roche,GenMark Diagnostic,1/1/2021,1,887.12
+Roche,Kytril,1/1/2000,1,871.37
 Roche,BioVeris ,1/1/2007,834.99
 Roche,Ariosa Diagnostics,1/1/2014,778.01
 Roche,Tusk Therapeutics,1/1/2018,762.06
@@ -303,15 +302,15 @@ Roche,Therapeutic Human Polyclonals,1/1/2007,78.63
 Roche,Memory Pharmaceuticals,1/1/2008,69.52
 Roche,454 Life Sciences,1/1/2007,20.74
 Roche,Ventana Medical Systems,1/1/2008,4.73
-Sanofi,Genzyme,1/1/2011,"19,169.33"
-Sanofi,Bioverativ,1/1/2018,"13,495.97"
-Sanofi,Ablynx,1/1/2018,"4,537.44"
-Sanofi,Principia Biopharma,1/1/2020,"4,129.58"
-Sanofi,Translate Bio,1/1/2021,"3,354.88"
-Sanofi,Synthrox,1/1/2019,"2,843.63"
-Sanofi,Kadmon Corporation,1/1/2021,"1,991.96"
-Sanofi,Kymab Ltd,1/1/2021,"1,520.18"
-Sanofi,Amunix,1/1/2021,"1,289.53"
+Sanofi,Genzyme,1/1/2011,19,169.33
+Sanofi,Bioverativ,1/1/2018,13,495.97
+Sanofi,Ablynx,1/1/2018,4,537.44
+Sanofi,Principia Biopharma,1/1/2020,4,129.58
+Sanofi,Translate Bio,1/1/2021,3,354.88
+Sanofi,Synthrox,1/1/2019,2,843.63
+Sanofi,Kadmon Corporation,1/1/2021,1,991.96
+Sanofi,Kymab Ltd,1/1/2021,1,520.18
+Sanofi,Amunix,1/1/2021,1,289.53
 Sanofi,Protein Sciences,1/1/2017,889.25
 Sanofi,Tidal Therapeutics,1/1/2021,492.75
 Sanofi,Kiadis Pharma,1/1/2020,345.63
