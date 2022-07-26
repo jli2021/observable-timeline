@@ -56,7 +56,6 @@ BMS,Amylin,1/1/2012,6747.22
 BMS,Medarex,1/1/2009,3113.15
 BMS,ZymoGenetics,1/1/2010,1105.55
 BMS,Flexus,1/1/2015,988.63
-BMS,Genetic Systems and Oncogen,1/1/1985,802.28
 BMS,Adnexus Therapeutics,1/1/2007,601.19
 BMS,Matrix Essentials Inc.,1/1/1994,488.14
 BMS,Amira Pharmaceuticals,1/1/2011,466.28
@@ -83,15 +82,10 @@ Eli Lilly,Armo Biosciences,1/1/2018,1861.51
 Eli Lilly,CoLucid Pharmaceuticals,1/1/2017,1138.24
 Eli Lilly,Protomer,1/1/2021,1048.4
 Eli Lilly,Prevail Therapeutics Inc,1/1/2020,987.51
-Eli Lilly,Hybritech,1/1/1985,802.28
-Eli Lilly,Cardiac Pacemakers,1/1/1978,548.32
 Eli Lilly,Avid Radiopharmaceuticals,1/1/2010,400.08
 Eli Lilly,Origin Medsystems,1/1/1992,308.98
-Eli Lilly,Elizabeth Arden,1/1/1971,270.25
-Eli Lilly,IVAC Corporation,1/1/1977,249.46
 Eli Lilly,Disarm Therapeutics,1/1/2020,151.49
 Eli Lilly,AurKa Pharma,1/1/2018,127.98
-Eli Lilly,Devices for Vascular Intervention,1/1/1988,121.28
 Eli Lilly,"SGX Pharmaceuticals, Inc",1/1/2008,88.98
 Gilead Sciences,Immunomedics,1/1/2020,23565.56
 Gilead Sciences,Pharmasset Inc.,1/1/2011,14247.47
@@ -136,7 +130,6 @@ Johnson and Johnson,Alios Biopharma,1/1/2014,2178.42
 Johnson and Johnson,Cougar Biotech,1/1/2009,1353.54
 Johnson and Johnson,Aragon Pharmaceuticals,1/1/2013,1254.23
 Johnson and Johnson,Acclarent Inc,1/1/2010,1046.87
-Johnson and Johnson,CooperVision,1/1/1987,658.55
 Johnson and Johnson,Omrix Biopharmaceuticals Inc,1/1/2008,608.98
 Johnson and Johnson,Verb Surgical,1/1/2020,448.87
 Johnson and Johnson,Angiotech Pharmaceuticals,1/1/2014,77.18
@@ -148,15 +141,12 @@ Merck Co.,ArQule,1/1/2020,3029.86
 Merck Co.,Sirna Therapeutics,1/1/2006,1593.29
 Merck Co.,Peloton Therapeutics,1/1/2020,1167.06
 Merck Co.,Rosetta Inpharmatics,1/1/2001,1048.26
-Merck Co.,US over-the-counter business of ICI Americas Inc.,1/1/1986,1044.86
-Merck Co.,Banyu Pharmaceutical Co,1/1/1983,903.15
 Merck Co.,Afferent Pharmaceuticals,1/1/2016,617.44
 Merck Co.,Inspire Pharmaceuticals,1/1/2011,543.99
 Merck Co.,GlycoFi,1/1/2006,540.27
 Merck Co.,NovCardia,1/1/2007,452.42
 Merck Co.,Viralytics Ltd,1/1/2018,439.78
 Merck Co.,Vallee S.A.,1/1/2017,424.47
-Merck Co.,Hubbard Farms Inc,1/1/1974,394.23
 Merck Co.,Immune Design,1/1/2019,342.37
 Merck Co.,Avecia Biologics Limited,1/1/2010,253.38
 Merck Co.,Aton Pharma,1/1/2004,192.76
@@ -171,8 +161,6 @@ Merck Co.,Physicians Interactive,1/1/2013,121.66
 Merck Co.,cCAM Biotherapeutics Ltd,1/1/2015,118.64
 Merck Co.,Abmaxis,1/1/2006,115.88
 Merck Co.,Health Management Resources Corporation,1/1/2013,109.12
-Merck Co.,Rotary Drilling Services Inc. of Tulsa,1/1/1981,62.19
-Merck Co.,Havens INternational,1/1/1970,29.38
 Merck KGaA,Sigma Aldrich,1/1/2014,21161.75
 Merck KGaA,Ares Serono,1/1/2006,19264.31
 Merck KGaA,Acceleron,1/1/2022,11500
@@ -212,9 +200,7 @@ Novo Nordisk,Emisphere Technologies,1/1/2020,2019.91
 Novo Nordisk,Ziylo,1/1/2018,930.76
 Novo Nordisk,Xellia Pharmaceuticals,1/1/2013,877.96
 Novo Nordisk,Corvidia Therapeutics,1/1/2020,813.57
-Novo Nordisk,Ferrosan Group,1/1/1986,161.36
 Novo Nordisk,Neose Technologies,1/1/2008,59.79
-Novo Nordisk,ZymoGenetics,1/1/1988,55.79
 Pfizer,Warner-Lambert,1/1/2000,151691.54
 Pfizer,Wyeth,1/1/2009,92040.84
 Pfizer,Merger with Pharmacia,1/1/2003,88814.85
@@ -230,39 +216,26 @@ Pfizer,Sanofi-Aventis worldwide rights to Exubera,1/1/2006,2027.82
 Pfizer,Esperion,1/1/2004,1996.77
 Pfizer,Hospira,1/1/2015,988.63
 Pfizer,"NextWave Pharmaceuticals, Inc",1/1/2012,865.68
-Pfizer,Howmedica Inc,1/1/1972,839.06
 Pfizer,Campto,1/1/2004,806.39
 Pfizer,Bamboo Therapeutics,1/1/2016,780.89
 Pfizer,Rinat Neuroscience,1/1/2006,724.22
-Pfizer,Shiley,1/1/1984,693.96
 Pfizer,ReViral Ltd,1/1/2022,525
-Pfizer,"Oral Research Laboratories, Inc.",1/1/1988,485.14
 Pfizer,Innopharma,1/1/2014,448.13
 Pfizer,Idun,1/1/2005,371.31
-Pfizer,Valleylab,1/1/1983,331.83
 Pfizer,NAMIC U.S.A Corporation,1/1/1995,323.72
 Pfizer,Coley Pharmaceutical Group,1/1/2008,319.79
 Pfizer,Encysive Pharmaceuticals,1/1/2008,278.08
 Pfizer,Schering-Plough Corporation,1/1/2008,236.36
-Pfizer,Angiomedics Incorporated,1/1/1986,148.13
-Pfizer,Cavitron,1/1/1988,101.88
 Pfizer,Charwell Pharmaceuticals,1/1/1993,83.2
 Pfizer,Icagen ,1/1/2011,72.53
 Pfizer,FlavorTechnology Inc.,1/1/1994,62.48
-Pfizer,Space Age Materials Corporation (SAMCO) + Southern California Minerals Company,1/1/1966,60.41
-Pfizer,an additional 30% interest in a previously 50% owned Japanese company for $6.9M,1/1/1968,56.81
-Pfizer,Infusaid Company and Intermedics/Infusaid Inc ,1/1/1986,55.55
 Pfizer,Strato Medical Corporation,1/1/1990,54.61
 Pfizer,Restiva Italiana S.p.A,1/1/1994,50.77
 Pfizer,"Rovifarma, S.A.",1/1/1994,46.86
 Pfizer,Inland Scone Co.,1/1/1990,37.14
-Pfizer,Biomedical Sensors (Holdings) Ltd. (England),1/1/1988,36.39
 Pfizer,Cadsand Beheer B.V and Cadsand Medica B.VB.A,1/1/1990,34.95
-Pfizer,Koshin Medical Corp.,1/1/1992,33.78
 Pfizer,Medinvent SA,1/1/1990,31.24
 Pfizer,Synbiotics Corporation ,1/1/2010,26.67
-Pfizer,"American Medical Systems, Inc.",1/1/1985,6.23
-Pfizer,Nalco Chemical Company's refractories business in the US ,1/1/1988,4.85
 Regeneron,Checkmate Pharmaceuticals,1/1/2022,250
 Regeneron,Intellia Therapeutics minority stake,1/1/2016,60.53
 Roche,Boehringer Mannheim,1/1/1997,19933.39
